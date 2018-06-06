@@ -1,0 +1,38 @@
+{
+  "0": {
+    "name": "EKSHIN",
+    "img": "/profile/ekshin.png",
+    "email": "eks012@gmail.com",
+    "url": "https://gracefullight.github.io",
+    "motto": ""
+  },
+
+  "1": {
+    "name": "HYKIM",
+    "img": "/profile/khzero.jpg",
+    "url": "https://khzero.github.io",
+    "motto": ""
+  },
+
+  "2": {
+    "name": "YIJANG",
+    "img": "/profile/yijang.png",
+    "url": "",
+    "motto": ""
+  },
+
+  "3": {
+    "name": "SYSEO",
+    "img": "/profile/syseo.jpg",
+    "url": "",
+    "motto": ""
+  },
+
+  "4": {
+    "name": "DWKIM",
+    "img": "/profile/dwkim.png",
+    "url": "",
+    "motto": ""
+  }
+
+}
